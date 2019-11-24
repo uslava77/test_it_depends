@@ -12,5 +12,6 @@ public class HelloWorld {
 
    private void helper2() {
        //second helper, not changed with any other methods
+       // change
    }
 }
