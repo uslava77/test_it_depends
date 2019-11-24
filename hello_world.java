@@ -8,4 +8,9 @@ public class HelloWorld {
         // this is a test
 	// only changing helper
     }
+
+
+   private void helper2() {
+       //second helper, not changed with any other methods
+   }
 }
